@@ -15,7 +15,7 @@ class MyAppBar extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Padding(
-              padding: EdgeInsets.only(left: 62),
+              padding: EdgeInsets.only(left: 45),
               child: Text(
                 'Hi Dhiraj!',
                 style: TextStyle(fontSize: 12, fontWeight: FontWeight.w700),
@@ -23,7 +23,7 @@ class MyAppBar extends StatelessWidget {
             ),
             SizedBox(height: 4),
             Padding(
-              padding: EdgeInsets.only(left: 62),
+              padding: EdgeInsets.only(left: 45),
               child: Text(
                 'Good Morning!',
                 style: TextStyle(fontSize: 14, fontWeight: FontWeight.w800),

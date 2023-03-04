@@ -13,7 +13,7 @@ class SearchWidget extends StatelessWidget {
                   flex: 3,
                   child: Container(
                     padding: const EdgeInsets.all(10),
-                    margin: const EdgeInsets.only(left: 48),
+                    margin: const EdgeInsets.only(left: 35),
                     height: 45,
                     width: 300,
                     decoration: BoxDecoration(
